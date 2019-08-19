@@ -1,0 +1,71 @@
+PCCI :
+# Health care data quality - human intervention - poor quality data
+
+# data quality checks needed
+in dev: NLP on doctor notes to check human intervention and prediction/checking of prescribed desease.
+
+#Socio economic factors are open source:
+1. Criminal data
+2. social conditions
+
+# does it account the care providers bias?{practioner)
+Workflows - predictory model - creates a safe area- precision 
+-Clinical pilot testing (feedback)
+-Tuning is required to the existing models
+
+#breaches cant be managed - no opensource is used 
+
+# data is crunched into ML jobs to prevent risk from data leaks 
+
+Industry questions
+#HIPAA rules:  Healthcare information Compliance
+#EPIC healthcare
+#EMR 
+
+#Error in AI - is it viable to be used in healthcare which is a very sensitive sector??
+------------
+
+Ethical and explainable AI - if something happens can they explain what happened- is the data unbiased
+Approach <> Workflows <> Platform
+
+-------------
+Approach:
+
+Timly clinical factors > timely socio economic factors ( asking teachers, air quality, etc) > 
+
+-------------
+ Data:
+Healthcare
+SDoh
+Genomics
+
+Analytics:
+Predictive
+Pescriptive
+AI
+
+These can be integrated into IOT, rights are explained, staff is present ( oncologists with a  data scientist to make models around data)
+------------------------
+
+Word of mouth is used to market amongst doctors
+-------------------------
+Sensors are not part yet - expected sensors : air quality sensor, gluclometer
+----------------------
+Major source of data :
+Clinical data, socio economical data
+----------------------
+Model only on PCCI will not work on other countries. (~2.5million records)
+----------------
+QA
+Are data involving continuous feedback from a particular patient recorded (change of lifestyle, working of prescrived drugs, etc)?
+
+------------------
+
+Are any financal model used in PCCI ? does this help the patient of the hospital?
+_not yet
+---------------------
+
+USP - Team of doctors and data scientist to tune models, rigorous testing EMR, score with pop up of the trend graph is maintained.
+Feedback Loop is implemented in the entire workflow
+
+-----------------
